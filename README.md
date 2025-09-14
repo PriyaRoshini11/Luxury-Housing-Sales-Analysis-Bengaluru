@@ -51,9 +51,10 @@ sqlalchemy
 
 **Snapshot:**
 
-<img width="1426" height="953" alt="image" src="https://github.com/user-attachments/assets/55209b14-71b8-4921-8f84-0e9f94f0caab" />
+<img width="1462" height="956" alt="image" src="https://github.com/user-attachments/assets/69e6474e-901e-461c-8c23-6d4db3fb049d" />
 
-<img width="1426" height="945" alt="image" src="https://github.com/user-attachments/assets/f19e2a7f-52bd-40e7-9862-fd0f703bf9fb" />
+<img width="1463" height="951" alt="image" src="https://github.com/user-attachments/assets/e494412c-3a75-489d-9f0b-3def8446de7d" />
+
 
 
 
